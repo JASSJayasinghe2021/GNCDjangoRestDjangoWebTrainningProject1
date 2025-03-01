@@ -1,1 +1,1 @@
-# GNCDjangoRestDjangoWebTrainningProject1
+# GNC DjangoRest DjangoWeb Trainning Project1
